@@ -46,10 +46,10 @@ This project aims to answer questions such as:
 
 ## Project Structure
 
-- `GOTY_Nominees.ipynb` — Main notebook containing data cleaning, structuring, and analysis  
-- `data/` — Exported datasets (CSV/Excel) for reuse  
-- `visuals/` — Charts and figures generated during analysis  
-- `README.md` — Project overview and documentation  
+- `GOTY_Nominees.ipynb` - Main notebook containing data cleaning, structuring, and analysis  
+- `data/` - Exported datasets (CSV/Excel) for reuse  
+- `visuals/` - Charts and figures generated during analysis  
+- `README.md` - Project overview and documentation  
 
 ---
 
