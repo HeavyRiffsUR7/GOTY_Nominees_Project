@@ -3,7 +3,7 @@
 This project builds a structured dataset of **Game of the Year (GOTY) nominees** and explores key trends behind award recognition in the gaming industry.  
 The goal is to create a reproducible pipeline for collecting, organizing, and analyzing nomination data across multiple years.
 
-By transforming raw nominee information into an analytical dataset, this project demonstrates how gaming awards can be studied through data — combining entertainment, industry insight, and analytics.
+By transforming raw nominee information into an analytical dataset, this project demonstrates how gaming awards can be studied through data and combining entertainment, industry insight, and analytics.
 
 ---
 
